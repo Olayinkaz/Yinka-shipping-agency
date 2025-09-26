@@ -34,28 +34,28 @@ A comprehensive web application for managing shipping logistics, client orders, 
 
 - **Frontend:** Built with [React.js](https://react.dev/) (or your frontend framework), featuring reusable components and state management.
 - **Backend:** Powered by [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/) for RESTful APIs.
-- **Database:** [MongoDB](https://mongodb.com/) for scalable data storage (or your chosen DB).
+- **Database:** [MongoDB](https://mongodb.com/) for scalable data storage 
 - **Authentication:** Secure login/signup using JWT and role-based access.
 - **Integrations:** 
-  - **Payment Gateway:** (e.g., Stripe, Paystack) for invoice management.
+  - **Payment Gateway:** ( Stripe) for invice management.
   - **Map API:** (e.g., Google Maps, Mapbox) for shipment tracking.
-  - **Email/SMS Service:** (e.g., SendGrid, Twilio) for notifications.
+  - **Email/SMS Service:** ( SendGrid) for notifications.
 - **Testing:** [Jest](https://jestjs.io/) and [Cypress](https://www.cypress.io/) for unit and end-to-end tests.
-- **Deployment:** Hosted on [Vercel](https://vercel.com/), [Heroku](https://heroku.com/), or [AWS](https://aws.amazon.com/).
+- **Deployment:** Hosted on [Vercel](https://vercel.com/)
 - **CI/CD:** Automated builds and deployments via GitHub Actions.
 
 ## 🧩 Tech Stack
 
-- **Frontend:** React.js, Redux, Tailwind CSS (or Bootstrap/Material UI)
+- **Frontend:** React.js, Redux, Tailwind CSS 
 - **Backend:** Node.js, Express
-- **Database:** MongoDB / PostgreSQL (based on your implementation)
+- **Database:** PostgreSQL 
 - **Authentication:** JWT, bcrypt
 - **Integrations:** 
   - Google Maps API / Mapbox
   - Stripe / Paystack
   - SendGrid / Twilio
 - **Testing:** Jest, Cypress
-- **DevOps:** GitHub Actions, Docker (if containerized), Vercel/Heroku/AWS
+- **DevOps:** GitHub Actions, Docker, Vercel/Heroku/AWS
 
 ## 📦 Getting Started
 
